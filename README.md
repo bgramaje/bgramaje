@@ -18,7 +18,7 @@ My name is Borja, graduated in :
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: boralbgra@gmail.com
 
-#### *Languages:*
+#### 🗣️ *Languages:*
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
@@ -27,7 +27,12 @@ My name is Borja, graduated in :
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
-#### *Frameworks:*
+#### 💾 *Databases:*
+![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### 🛠️ *Frameworks and Tools:*
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -38,16 +43,9 @@ My name is Borja, graduated in :
 ![Ant Design](https://img.shields.io/badge/-antd-black?style=flat-square&logo=antdesign)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-
-#### *Databases:*
-![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-#### 🛠️ *Tools:*
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
   
 
 
