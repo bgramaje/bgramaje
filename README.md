@@ -8,13 +8,13 @@
 
 
 My name is Borja, graduated in :
-* `Computer Engineering` at [UPV (Universitat Politécnina de Valencia)](http://www.upv.es/)
+* `Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 * `Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
 
 
 #### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently studying a Master at [UPV (Universitat Politécnina de Valencia)](http://www.upv.es/)
+- 👨🏽‍💻 I’m currently studying a Master at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: boralbgra@gmail.com
 
