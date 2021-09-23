@@ -45,10 +45,10 @@ My name is Borja, graduated in :
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-  
-
-
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobexd)
 
 <!--
 **boralbgra/boralbgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
