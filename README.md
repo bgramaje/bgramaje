@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/boralbgra/)](https://es.linkedin.com/in/boralbgra/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boralbgra@gmail.com)](mailto:boralbgra@gmail.com)&nbsp;
 ![Follow](https://img.shields.io/github/followers/boralbgra?style=social)
+![xd](https://komarev.com/ghpvc/?username=boralbgra)
 
-
-My name is Borja, graduated in :
+My name is Borja. I am graduated in :
 * `Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 * `Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
 
@@ -47,6 +47,7 @@ My name is Borja, graduated in :
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobexd)
 
