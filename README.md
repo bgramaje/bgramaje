@@ -15,9 +15,8 @@ My name is Borja, graduated in :
 #### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently studying a Master at [UPV (Universitat Politécnina de Valencia)](http://www.upv.es/)
-- 🌱 I’m currently learning Rfull-stack technologies and devops fundamentals.
+- 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: boralbgra@gmail.com
-I am in continuous learning of full-stack technologies and devops fundamentals.
 
 #### *Languages:*
 
