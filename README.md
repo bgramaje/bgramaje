@@ -18,7 +18,7 @@ My name is Borja, graduated in :
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: boralbgra@gmail.com
 
-#### 🗣️ *Languages:*
+#### 🗣️ Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
@@ -27,12 +27,12 @@ My name is Borja, graduated in :
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
-#### 💾 *Databases:*
+#### 💾 Databases:
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### 🛠️ *Frameworks and Tools:*
+#### 🛠️ Frameworks and Tools:
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
