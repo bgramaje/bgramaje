@@ -13,10 +13,10 @@ My name is Borja. I am graduated in :
 
 
 #### ✨ Quick Facts
-- 👨🏽‍💻 Working as a Full-Stack developer at [Devoltec](https://www.devoltec.com/) (PostgreSQL + Spring Boot + Angular)
+- 👨🏽‍💻 Working as a Full-Stack developer at [Devoltec](https://www.devoltec.com/) (PostgreSQL + Spring Boot | Node Express.js + Angular)
 - 📚 I’m currently studying a Master at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
-- 📫 How to reach me: boralbgra@gmail.com
+- 📫 How to reach me: bgramaje@outlook.es
 
 #### 🗣️ Languages:
 
