@@ -1,10 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> , I'm Borja! :)
+### Hi there, I'm Borja! :)
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/borjaalbert_)](https://twitter.com/borjaalbert_) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/boralbgra/)](https://es.linkedin.com/in/boralbgra/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boralbgra@gmail.com)](mailto:boralbgra@gmail.com)&nbsp;
-![Follow](https://img.shields.io/github/followers/boralbgra?style=social)
+![Follow](https://img.shields.io/github/followers/bgramaje?style=social)
 ![xd](https://komarev.com/ghpvc/?username=boralbgra)
 
 My name is Borja. I am graduated in :
