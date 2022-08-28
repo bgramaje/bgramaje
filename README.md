@@ -6,6 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:boralbgra@gmail.com)](mailto:boralbgra@gmail.com)&nbsp;
 ![Follow](https://img.shields.io/github/followers/bgramaje?style=social)
 ![xd](https://komarev.com/ghpvc/?username=boralbgra)
+![codewars](https://www.codewars.com/users/bgramaje/badges/micro)
 
 My name is Borja. I am graduated in :
 * `Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
