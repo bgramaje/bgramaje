@@ -8,7 +8,7 @@
 ![xd](https://komarev.com/ghpvc/?username=boralbgra)
 ![codewars](https://www.codewars.com/users/bgramaje/badges/micro)
 
-My name is Borja. I am graduated in :
+I am graduated in :
 * `Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 * `Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
 
