@@ -14,7 +14,7 @@ I am graduated in :
 
 
 #### ✨ Quick Facts
-- 👨🏽‍💻 Working as a Ful Stack Developer @[Etra I+D](https://www.grupoetra.com/)
+- 👨🏽‍💻 Working as a Full Stack Developer @[Etra I+D](https://www.grupoetra.com/)
 - 📚 I’m currently studying a Master @[UPV (Valencia Polytechnic University)](http://www.upv.es/)
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: bgramaje@outlook.es
