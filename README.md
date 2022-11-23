@@ -24,32 +24,36 @@ I am graduated in :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### 💾 Databases:
 ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### 🛠️ Frameworks and Tools:
+#### 🛠️ Frameworks, Libraries and Tools:
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MeteorJS](https://img.shields.io/badge/-Meteor.js-black?style=flat-square&logo=meteor)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=graphql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+
+#### 🛠️ Others:
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Ant Design](https://img.shields.io/badge/-antd-black?style=flat-square&logo=antdesign)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-black?style=flat-square&logo=adobexd)
 
 <!--
