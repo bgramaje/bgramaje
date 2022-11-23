@@ -19,7 +19,7 @@ I am graduated in :
 - 🌱 I’m currently learning full-stack technologies and devops fundamentals.
 - 📫 How to reach me: bgramaje@outlook.es
 
-#### 🗣️ Languages:
+#### 📚 Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typeScript)
@@ -46,7 +46,7 @@ I am graduated in :
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 
-#### 🛠️ Others:
+#### 💻 Others:
 ![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
