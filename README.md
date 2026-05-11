@@ -8,16 +8,20 @@
 ![xd](https://komarev.com/ghpvc/?username=boralbgra)
 ![codewars](https://www.codewars.com/users/bgramaje/badges/micro)
 
+> Go check my newest personal website: https://bgramaje.github.io/
+
+Versatile software engineer with a broad cross-domain background spanning full-stack web, IoT, embedded systems, data engineering, cloud-native infrastructure, and AI-driven tooling. I thrive in fast-changing environments, adapt quickly to new stacks and problem domains, and consistently deliver end-to-end solutions from hardware to frontend. My track record across EU Horizon 2020 R&D projects, multiple IEEE publications, and hands-on work at every layer of the stack reflects both strong technical depth and the problem-solving mindset to tackle whatever comes next.
+
 I am graduated in :
-* `Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
-* `Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
+* `Bachelor of Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
+* `Bachelor of Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
+* `Master of Software Systems Engineering and Technolog` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
 
 
 #### ✨ Quick Facts
-- 👨🏽‍💻 Working as a Full Stack Developer @[Etra I+D](https://www.grupoetra.com/)
+- 👨🏽‍💻 Working as a Full Stack Developer @[ETRA I+D](https://www.grupoetra.com/)
 - 📚 I’m currently studying a Master @[UPV (Valencia Polytechnic University)](http://www.upv.es/)
-- 🌱 I’m currently learning full-stack technologies and devops fundamentals.
-- 📫 How to reach me: bgramaje@outlook.es
+- 📫 How to reach me: boralbgra@gmail.com
 
 #### 📚 Languages:
 
