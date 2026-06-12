@@ -15,7 +15,8 @@ Versatile software engineer with a broad cross-domain background spanning full-s
 I am graduated in :
 * `Bachelor of Computer Engineering` at [UPV (Valencia Polytechnic University)](http://www.upv.es/)
 * `Bachelor of Information and Communication Technology` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
-* `Master of Software Systems Engineering and Technolog` at [LAB University Of Applied Sciences](https://www.lab.fi/en).
+* `Master of Software Systems Engineering and Technology` at [UPV (Valencia Polytechnic University)](http://www.upv.es/).
+* `Master’s Degree in Computational Engineering & Industrial Mathematics` at [UPV (Valencia Polytechnic University)](http://www.upv.es/). (ongoing)
 
 
 #### ✨ Quick Facts
